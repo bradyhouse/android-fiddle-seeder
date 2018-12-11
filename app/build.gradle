@@ -4,7 +4,7 @@ android {
     compileSdkVersion 28
     defaultConfig {
         applicationId "sh.fiddle.android.app"
-        minSdkVersion 28
+        minSdkVersion 7
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"
