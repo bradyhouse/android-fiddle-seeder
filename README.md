@@ -1,4 +1,4 @@
-# Introduction
+# Android Seed
 
 [![Build Status](https://travis-ci.com/bradyhouse/android-seed.svg?branch=master)](https://travis-ci.com/bradyhouse/android-seed)
 
